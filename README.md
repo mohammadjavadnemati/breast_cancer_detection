@@ -74,7 +74,7 @@ See the notebook output cells for exact numbers and plots.
 
 ## 📝 License
 
-Specify a license here (e.g., MIT) if you want others to freely reuse this code.
+This project is licensed under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgements
 
